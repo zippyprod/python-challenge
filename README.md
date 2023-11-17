@@ -1,4 +1,5 @@
 # python-challenge
 Python 3 Challenge
-#### PyPoll results screenshot
-Pyproll screens shot is located in the PyPoll folder
+## PyPoll & PyBank results screenshot
+PyPoll screens shot is located in the PyPoll folder
+PyBank screen shot is located in the PyBank folder
